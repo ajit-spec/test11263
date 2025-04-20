@@ -97,3 +97,11 @@ For any questions or feedback, please contact me at [your email address]
 - Authentication
 - Authorization
 - Validation
+
+## API Endpoints
+
+- `GET /api/items`: Get all items
+- `GET /api/items/:id`: Get an item by id
+- `POST /api/items`: Create an item
+- `PUT /api/items/:id`: Update an item
+- `DELETE /api/items/:id`: Delete an item
