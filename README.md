@@ -68,3 +68,32 @@ For any questions or feedback, please contact me at [your email address]
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
 - [Angular](https://angular.io/)
+- [MongoDB](https://www.mongodb.com/)
+
+## Project Structure
+
+- `server.js`: The main server file
+- `routes/`: The routes for the application
+- `models/`: The models for the application
+- `public/`: The public folder for the application
+- `views/`: The views for the application
+- `package.json`: The package.json file
+- `package-lock.json`: The package-lock.json file
+- `README.md`: The readme file
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- Angular
+- MongoDB
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- CRUD operations
+- Authentication
+- Authorization
+- Validation
